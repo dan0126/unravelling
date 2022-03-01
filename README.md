@@ -7,4 +7,4 @@ This study is based on post-processing of molecular dynamics simulations and dat
 Finally, we created two linear regression models, with an error less than 1.1 and R2 greater than 0.85, indicating that the machine learning models built were able to capture with good results the molecular dynamics information, whose data were experimentally tested, guaranteeing the quality of the results obtained.
 
 
-[![Video about the undergraduate research](https://img.youtube.com/vi/watch?v=pyStGPaQumE.jpg)](https://www.youtube.com/watch?v=pyStGPaQumE)
+[![Video about the undergraduate research](https://i9.ytimg.com/vi/pyStGPaQumE/mqdefault.jpg?v=61646ce8&sqp=CJyh-JAG&rs=AOn4CLAakjpx6za5lvrIOSTy8CU9guFp3w)](https://www.youtube.com/watch?v=pyStGPaQumE)
